@@ -68,6 +68,7 @@ SQL QUERY:
 rename student to mystudent;
 
 OUTPUT:
-image
+<img width="383" alt="271326620-8b5b3f3a-add8-489e-ba3d-3ff163c195c6" src="https://github.com/thrikesh/F2_DBMS/assets/119576222/e1367906-8df6-4e5a-b5ab-fd292eced4c2">
+
 RESULT:
 Creating a student table and executing the DDL queries using SQL was successfully executed.
